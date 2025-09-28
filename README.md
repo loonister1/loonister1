@@ -43,7 +43,7 @@ My toolkit is a blend of modern AI frameworks, robust backend technologies, and 
     <td valign="top" width="33%">
       <strong>🤖 AI & Machine Learning</strong><br>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=pytorch,gcp,tensorflow,huggingface,opencv,langchain" />
+        <img src="https://skillicons.dev/icons?i=pytorch,gcp,tensorflow,azure" />
       </a>
       <br><em>VertexAI, Gemini, OpenAI, Anthropic, PydanticAI Agents, Guardrails AI, PEFT, Distilabel</em>
     </td>
