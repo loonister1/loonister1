@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/[YOUR_GITHUB_USERNAME]">
-    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="150">
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnI0YXQ2d3J1eTlnbWt1MWYwaWtyc2I2OHlkMWNiM3hxY2EyeDU5aiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Ws6T5PN7wHv3cY8xy8/giphy.gif" width="350">
   </a>
 </p>
 
