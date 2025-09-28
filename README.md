@@ -73,5 +73,5 @@ My toolkit is a blend of modern AI frameworks, robust backend technologies, and 
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/loonister1/loonister1/output/github-contribution-grid-snake.svg" alt="Snake animation">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation">
 </p>
