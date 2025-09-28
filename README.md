@@ -26,9 +26,9 @@
 
 I specialize in creating end-to-end AI-powered applications. Here's a snapshot of my capabilities:
 
--   **Intelligent Document Processing (IDP):** Developing platforms using Django REST Framework, Google VertexAI, and fine-tuned Gemini models to automate purchase order extraction and validation.
+-   **Intelligent Document Processing (IDP):** Developing platforms using Django REST Framework, Google VertexAI, and fine-tuned Gemini models to automate data extraction and validation.
 -   **Multi-Agent Systems:** Architecting sophisticated agent-based platforms with FastAPI and specialized LLMs (Claude 3.7 Sonnet, Qwen 2.5) for complex tasks.
--   **RAG & Chatbot Platforms:** Building custom chatbot generation systems using Langchain, PGVector, and RAG techniques to answer user queries from scraped website data.
+-   **RAG & Chatbot Platforms:** Building custom chatbot generation systems using Langchain, PGVector, and RAG techniques to answer user queries from website data.
 -   **Voice AI Agents:** Creating customer feedback voice agents to identify areas for service improvement or lead enrichment.
 -   **Deep Learning Solutions:** Developing and deploying deep learning models, such as CNNs with PyTorch for skin lesion classification, achieving a validation accuracy of 87.18%.
 
