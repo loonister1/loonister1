@@ -68,10 +68,6 @@ My toolkit is a blend of modern AI frameworks, robust backend technologies, and 
 ### 📈 My GitHub Stats & Activity
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=loonister1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=loonister1&layout=compact&theme=tokyonight" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api?username=loonister1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=loonister1&layout=compact&theme=tokyonight" alt="Top Languages"/>
 </p>
